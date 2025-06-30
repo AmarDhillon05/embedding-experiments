@@ -1,0 +1,11 @@
+numpy
+soundfile
+torch         # CPU-only PyTorch
+torchaudio    # CPU-only torchaudio
+opencv-python
+flask
+Pillow
+nomic
+memory-profiler
+transformers
+gunicorn
